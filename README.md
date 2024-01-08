@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ssharmasurender3
 - 👀 I’m interested in Python,C#,Java
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Performance Optimizations solutions/designs
 - 📫 How to reach me @ssharma.surender3@gmail.com
 
 
